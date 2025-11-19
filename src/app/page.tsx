@@ -254,12 +254,22 @@ export default function Home() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
               <div className="flex justify-center mb-4">
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
               </div>
               <p className="text-gray-700 dark:text-gray-300 italic mb-4">"Tuve la suerte de trabajar con mi compañero Jose tasco durante este semestre y puedo afirmar que es una persona con la que es muy facil trabajar "</p>
               <p className="font-semibold">– "Juan Pablo"</p>
             </div>
             <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-6 text-center">
               <div className="flex justify-center mb-4">
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-yellow-400 fill-current" />
+                <Star className="h-6 w-6 text-gray-400" />
               </div>
               <p className="text-gray-700 dark:text-gray-300 italic mb-4">"Tetimonio 2"</p>
               <p className="font-semibold">– ""</p>
